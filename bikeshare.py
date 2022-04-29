@@ -206,6 +206,9 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+
+# TO DO: Get user input on viewing additional trip data
+
 def display_data(df):
     st = 0
     display_data = input('\nWould you like to see more 5 rows of individual trip data? Enter yes or no.\n')
