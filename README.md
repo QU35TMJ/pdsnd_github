@@ -49,3 +49,7 @@ Through writing code, I'm able to answer the following questions about the bike 
 * What are the counts of each user type?
 * What are the counts of gender?
 * What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
+
+## The Interactive Experience
+
+For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics.
